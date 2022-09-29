@@ -1,0 +1,2 @@
+# Hunt-The-Wumpus
+Wumpus is a text-based adventure game with an adventurer in a cave with 20 rooms. The rooms are arranged in a dodecahedron with each room having three exits to other rooms. Some of the rooms have a bottomless pit, a colony of super bats, and somewhere in the maze, there is a sleeping Wumpus. The adventurer's job is to kill the Wumpus before it kills them, or they fall into a pit.
